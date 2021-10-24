@@ -231,19 +231,19 @@ p {
 }
 .welcome__btn {
   display: block;
-  border: 2px solid #EEAD33;
+  border: 2px solid red;
   width: 200px;
   margin: auto;
   padding: 10px;
   text-decoration: none;
-  color: #EEAD33;
+  color:red;
   font-size: 1.2em;
   font-weight: bold;
   margin-top: 30px;
   transition: all 0.5s;
 }
 .welcome__btn:hover {
-  background: #EEAD33;
+  background: red;
   color: white;
 }
 .container-design {
@@ -279,7 +279,7 @@ p {
   left: 50%;
   transform: translateX(-50%);
   height: 3px;
-  background: #EEAD33;
+  background:red;
 }
 .design__title:after {
   content: "";
@@ -289,7 +289,7 @@ p {
   left: 50%;
   transform: translateX(-50%);
   height: 3px;
-  background: #EEAD33;
+  background:red;
 }
 
 .container-testimonials {
@@ -311,7 +311,7 @@ p {
 .testimonials__name{
   text-align: center;
   font-size: 1.4em;
-  color: #EEAD33;
+  color: red;
   font-weight: bold;
   text-transform: uppercase;
 }
