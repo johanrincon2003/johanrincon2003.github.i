@@ -151,22 +151,8 @@ p {
   border-radius: 50%;
   margin: 10px;
 }
-.nav-social__item:first-child{
-  background: #3b5998;
-}
-.nav-social__item:nth-child(2){
-  background: #1da1f2;
-}
-.nav-social__item:nth-child(3){
-  background: #ea4c89;
-}
-.nav-social__item i{
-  color: white;
-}
-.mostrar{
-  opacity: 1;
-  visibility: visible;
-}
+
+
 
 
 /*Estilos del banner*/
@@ -217,7 +203,7 @@ p {
   left: 50%;
   transform: translateX(-50%);
   height: 3px;
-  background: #EEAD33;
+  background:red;
 }
 .welcome{
   text-align: center;

@@ -10,7 +10,7 @@ input[type=text], select {
 
 input[type=submit] {
     width: 100%;
-    background-color:slategrey;
+    background-color:red;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -25,6 +25,47 @@ input[type=submit]:hover {
 
 div {
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-color:white;
     padding: 40px;
 }
+.container--flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1235px;
+;
+
+  }
+  .main-header {
+    padding: 0 15px;
+   
+  }
+  .main-title {
+    color:black;
+  }
+  .color-span{
+    color: red;
+  }
+  .main-header {
+    padding: 0 15px;
+  }
+  .main-title {
+    color:black;
+  }
+  .color-span{
+    color: red;
+  }
+  .main{
+    margin-top: 350px;
+  }
+  .copy{
+    background: #211E1E;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    width: 100%;
+  }
+  h1{
+    text-align: center;
+  }
+  

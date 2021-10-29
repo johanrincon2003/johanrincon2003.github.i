@@ -1,0 +1,57 @@
+
+body {
+  margin: 1;
+  font-family: "Roboto";
+  line-height: 25px;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Bitter";
+}
+img {
+ 
+  max-width: 24%;
+}
+p {
+  line-height: 25px;
+}
+.copy{
+    background: #211E1E;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    width: 100%;
+  }
+  .container--flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1240 px
+    
+    ;
+;
+  }
+  .main-header {
+    padding: 0 15px;
+    background-color: black;
+  }
+  .main-title {
+    color: white;
+  }
+  .color-span{
+    color: red;
+  }
+  .main-header {
+    padding: 0 15px;
+  }
+  .main-title {
+    color: white;
+  }
+  .color-span{
+    color: red;
+  }
+  
+  
+  .main{
+    margin-top: 350px;
+  }
+  
